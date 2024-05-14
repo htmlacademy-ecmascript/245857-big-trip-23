@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Вадим Шлыков](https://up.htmlacademy.ru/ecmascript/23/user/245857).
-* Наставник: `Неизвестно`.
+* Наставник: [Oleg Petrov](https://htmlacademy.ru/profile/id42390)
 
 ---
 
